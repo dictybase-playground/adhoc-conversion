@@ -3,8 +3,8 @@ date: 11:05:2020 18:41
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dictyostelium Assay
-property_value: http://purl.org/dc/elements/1.1/description "A structured controlled vocabulary of various annotations of the slime-mold Dictyostelium discoideum." xsd:string
-property_value: http://purl.org/dc/elements/1.1/title "Dicty Assay Ontology (DDPHENO)" xsd:string
+property_value: http://purl.org/dc/elements/1.1/description "A structured controlled vocabulary of various assay terms of the slime-mold Dictyostelium discoideum." xsd:string
+property_value: http://purl.org/dc/elements/1.1/title "Dicty Assay Ontology (DDASSAY)" xsd:string
 property_value: http://purl.org/dc/terms/license http://creativecommons.org/publicdomain/zero/1.0/
 ontology: ddassay
 

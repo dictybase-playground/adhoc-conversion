@@ -1,10 +1,10 @@
 format-version: 1.2
-date: 23:01:2018 13:57
+date: 02:10:2020 18:29
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: dictyBase_literature_topic
-property_value: http://purl.org/dc/elements/1.1/description "A structured controlled vocabulary of various annotations of the slime-mold Dictyostelium discoideum." xsd:string
-property_value: http://purl.org/dc/elements/1.1/title "Dicty Literature Topic Ontology (DDPHENO)" xsd:string
+property_value: http://purl.org/dc/elements/1.1/description "A structured controlled vocabulary of literature topic of the slime-mold Dictyostelium discoideum." xsd:string
+property_value: http://purl.org/dc/elements/1.1/title "Dicty Literature Topic (DDLIT)" xsd:string
 property_value: http://purl.org/dc/terms/license http://creativecommons.org/publicdomain/zero/1.0/
 ontology: ddlit
 
@@ -144,7 +144,7 @@ creation_date: 2010-04-12T03:26:06Z
 
 [Term]
 id: DDLIT:0000017
-name: Not yet curated
+name: obsolete Not yet curated
 is_obsolete: true
 created_by: sid
 creation_date: 2010-04-12T03:26:42Z
