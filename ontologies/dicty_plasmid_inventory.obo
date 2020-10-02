@@ -1,8 +1,11 @@
 format-version: 1.2
-date: 26:01:2017 16:57
+date: 02:10:2020 18:27
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: plasmid_inventory
+property_value: http://purl.org/dc/elements/1.1/description "A structured controlled vocabulary of plasmid inventory of the slime-mold Dictyostelium discoideum." xsd:string
+property_value: http://purl.org/dc/elements/1.1/title "Dicty Plasmid Inventory (PLASMIDINVENT)" xsd:string
+property_value: http://purl.org/dc/terms/license http://creativecommons.org/publicdomain/zero/1.0/
 ontology: plasmidinvent
 
 [Term]
@@ -53,7 +56,7 @@ creation_date: 2013-03-29T17:13:11Z
 
 [Term]
 id: PLASMIDINVENT:0000007
-name: obtained as
+name: obsolete obtained as
 def: "Conditions that the plasmid is obtained in at the stock center." [DDB:pf]
 is_obsolete: true
 created_by: pfey
